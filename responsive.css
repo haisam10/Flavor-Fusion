@@ -1,0 +1,12 @@
+@media only screen and (max-width: 950px){
+    nav ul li{
+        display: none;
+    }
+    .d-flex{
+        flex-wrap: wrap;
+        flex-basis: 15%;
+    }
+    .f-col{
+        flex-direction: column;
+    }
+}
