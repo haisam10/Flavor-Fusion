@@ -42,4 +42,8 @@
     form textarea {
         width: 50%;
     }
+    #cs-sp-desh-img1 {
+    width: 90%;
+    border-radius: 10px;
+}
 }
