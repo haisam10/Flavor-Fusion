@@ -1,53 +1,3 @@
-*{
-    font-family: "Roboto", sans-serif;
-    text-decoration: none;
-    list-style: none;
-    margin: 0;
-    letter-spacing: .05em;
-}
-body{
-    background-color:  #0e0d0c;
-}
-.f-row{
-    flex-direction: row;
-}
-.main{
-    width: 80%;
-    margin: 0 auto;
-}
-.space-top-bottom{
-    margin: 100px 0px;
-}
-.color01{
-    color: #dec08c;
-}
-.fff{
-    color: #fff;
-}
-.color02{
-    color: #dc143c;
-}
-.d-flex{
-    display: flex;
-}
-.d-grid{
-    display: grid;
-}
-.js-cen{
-    justify-content: center;
-}
-.js-ar{
-    justify-content: space-around;
-}
-.js-bt{
-    justify-content: space-between;
-}
-.al-cen{
-    align-items: center;
-}
-.tx-cn{
-    text-align: center;
-}
 /* header section start*/
 header{
     background-image: url(image/pexels-lumn-604969.jpg);
@@ -116,7 +66,7 @@ nav ul a button:hover{
     color: #dec08c;
     font-size: 20px;
     font-weight: 700;
-    padding: 150px;
+    padding: 150px 0;
 }
 .cs-container h1{
     width: 40%;
@@ -199,12 +149,8 @@ nav ul a button:hover{
     border-radius: 12px;
 }
 /* OUR STORY section */
-
 .cs-our-story div img{
     width: 400px;
-}
-.cs-our-story div h3{
-    margin: 0px 0px 100px 0px;
 }
 /* sp-desh */
 .cs-sp-desh{
@@ -214,10 +160,6 @@ nav ul a button:hover{
     width: 40%;
     border-radius: 10px;
 }
-.cs-sp-desh div h1{
-    font-size: 40px;
-    margin: 45px 0px;
-}
 .cs-sp-desh div h4, .cs-our-story div p{
     line-height: 3vh;
 }
@@ -226,11 +168,14 @@ nav ul a button:hover{
     font-size: 13px;
     font-weight: 200;
 }
+/* cs-sp-menu */
+.cs-sp-menu  div{
+    padding: 0px 50px;
+}
 /* cs-form */
 .cs-form{
     width: 50%;
 }
-
 form input,form textarea{
     color: #fff;
     width: 50%;
@@ -254,4 +199,21 @@ form textarea{
     font-size: 14px;
     color: #FFF;
     opacity: 0.5;
+}
+/* cs-Strength */
+.cs-Strength div{
+    border: 1px solid;
+    border-radius: 12px;
+    padding: 16px 20px;
+    margin: 32px;
+}
+.cs-Strength h4{
+    padding: 13px 0px;
+}
+/* footer */
+.cs-footer-txt{
+    padding: 20px;
+    margin: 0px 8rem;
+    align-items: center;
+    line-height: 3vh;
 }
