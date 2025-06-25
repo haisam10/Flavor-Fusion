@@ -1,1 +1,10 @@
-https://haisam10.github.io/Flavor-Fusion/
+Webpage link:- https://haisam10.github.io/Flavor-Fusion/
+  ========== Developer Team ==========
+Name: MD haisam hoque
+Position: Software Developer
+Bio: Software Developer with 3+ years of experience in web development.
+Location: Dhaka, Bangladesh
+Contact: +880 15371-61735
+Email: mdhh.info@gmail.com
+LinkedIn: https://www.linkedin.com/in/md-haisam-hoque/
+webpage: http://dev-haisam-resume.pantheonsite.io/
